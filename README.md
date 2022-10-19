@@ -2,7 +2,7 @@
 - 👀 I’m interested in: How Programs Work, Photography, Making Videos
 - 🌱 I’m currently learning: Next.js
 - 💞️ I’m looking to collaborate on: Any of my repository
-- 📫 How to reach me: [twitter.com/coolandsmartrr](twitter.com/coolandsmartrr)
+- 📫 How to reach me: Email + other contact methods listed on profile
 
 <!---
 coolandsmartrr/coolandsmartrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
